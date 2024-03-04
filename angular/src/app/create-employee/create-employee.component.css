@@ -1,11 +1,12 @@
-/* nav{
+nav{
     
     background-color: white;
 }
 .container{
     border: 1px solid black;
-    height: 300px;
-    width: 500px;
-    margin-top: 50px;
+    height: 400px;
+    width: 800px;
+    margin-top: 10px;
+    padding: auto;
 
-} */
+}
