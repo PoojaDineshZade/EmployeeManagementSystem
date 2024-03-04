@@ -1,4 +1,4 @@
-package net.javaguides.springboot.adminModel;
+package employee_management_system.adminModel;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

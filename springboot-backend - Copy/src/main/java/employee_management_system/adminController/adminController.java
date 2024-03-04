@@ -1,4 +1,4 @@
-package net.javaguides.springboot.adminController;
+package employee_management_system.adminController;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.javaguides.springboot.adminModel.adminModel;
-import net.javaguides.springboot.adminRepository.adminRepository;
+import employee_management_system.adminModel.adminModel;
+import employee_management_system.adminRepository.adminRepository;
 
 @RestController
 @RequestMapping("/api/v1/")
